@@ -1,4 +1,4 @@
-### Hi there 👋
+![Welcome to my World of Data](welcome.gif)
 
 <!--
 **fionnaelizabeth/fionnaelizabeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
