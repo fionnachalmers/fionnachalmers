@@ -1,3 +1,6 @@
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
 ![Welcome to my World of Data](welcome-new.gif)
 
 <!--
